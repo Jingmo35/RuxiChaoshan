@@ -1,6 +1,6 @@
 # 🖼️ 入戏潮汕 · 产品画廊
 
-素材来自[《入戏潮汕》项目说明与作品展示](https://ocnlp858hvkh.feishu.cn/docx/KkaodY02nonVGhxpYlNcPgBznPg)，展示产品视觉与交互设计。线上 Demo 的版本说明见[README](../README.md)。
+本画廊展示《入戏潮汕》的产品视觉与交互设计，涵盖英歌情入口、路线、识肉、品茶与文创。完整产品介绍、技术实现与线上 Demo 版本说明见[README](../README.md)。
 
 ## 🥁 文化入口与路线
 
