@@ -17,7 +17,7 @@
 
 [🌐 在线体验](https://qiyucai.cn/puninghackathon/) · [🖼️ 完整画廊](docs/GALLERY.md)
 
-<img src="docs/images/opening.png" width="340" alt="入戏潮汕开场视觉：英歌鼓槌、普宁街巷与潮汕食味" />
+<img src="docs/images/opening.png" width="220" alt="入戏潮汕开场视觉：英歌鼓槌、普宁街巷与潮汕食味" />
 
 </div>
 
